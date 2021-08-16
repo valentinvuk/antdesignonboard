@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.steps-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  border: 2px dashed deepskyblue;
+  border-radius: 2px;
+}
+
+.steps-action {
+  margin-top: 24px;
+  display: flex;
+  width: 100%;
+}
