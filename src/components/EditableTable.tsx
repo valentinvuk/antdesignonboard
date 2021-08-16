@@ -100,7 +100,7 @@ export function EditableTable() {
                                     message: "Please type a name!",
                                 },
                             ]}
-                            label={"Key"}
+                            label={"Name"}
                             name={"key"}
                         >
                             <Input />
